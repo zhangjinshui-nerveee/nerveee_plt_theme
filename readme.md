@@ -13,6 +13,9 @@ This will save you time to specify the line colors, linewidth, or axis linewidth
 
 This works well with curve plots so far.
 
+Or if you have internet, simply
+`plt.style.use("https://raw.githubusercontent.com/zhangjinshui-nerveee/nerveee_plt_theme/refs/heads/main/nerveee.mplstyle")`
+
 # Roadmap:
 - [ ] barplot
 - [ ] scatter plot
