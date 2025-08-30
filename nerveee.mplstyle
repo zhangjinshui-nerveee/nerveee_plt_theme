@@ -1,0 +1,15 @@
+lines.linewidth: 0.5
+font.size: 8
+axes.prop_cycle : cycler('color', ['k', 'b', 'r', 'g', 'orange'])
+axes.linewidth: 0.5
+xtick.major.width: 0.5  # major x ticks
+ytick.major.width: 0.5  # major y ticks
+xtick.minor.width: 0.5  # minor x ticks (if enabled)
+ytick.minor.width: 0.5  # minor y ticks (if enabled)
+xtick.direction: "in"
+ytick.direction: "in"
+axes.xmargin: 0
+axes.ymargin: 0.1
+legend.frameon   : False   # no frame at all
+legend.facecolor : none    # transparent background if frame is on
+legend.edgecolor : none    # no border if frame is on
