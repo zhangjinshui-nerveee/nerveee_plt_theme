@@ -1,6 +1,6 @@
 lines.linewidth: 0.5
 font.size: 8
-axes.prop_cycle : cycler('color', ['k', 'b', 'r', 'g', 'orange'])
+axes.prop_cycle : cycler('color', ['k','b', 'r', 'g', 'orange', 'purple', 'cyan', 'magenta', 'lime', 'brown', 'pink', 'olive', 'teal', 'gold', 'navy'])
 axes.linewidth: 0.5
 xtick.major.width: 0.5  # major x ticks
 ytick.major.width: 0.5  # major y ticks
